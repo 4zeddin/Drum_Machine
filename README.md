@@ -2,7 +2,7 @@
 
 A simple and interactive Drum Machine web application that allows you to play different drum sounds using your keyboard or mouse clicks.
 
-You can view a live demo [https://4zeddin.github.io/Drum_Machine/](#).
+You can view a live demo [https://4zeddin.github.io/Drum_Machine/](#)
 
 ## Features
 
